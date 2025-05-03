@@ -7,7 +7,7 @@ This repository contains a machine learning mini-project implemented in Python u
 - Model training using scikit-learn
 - Performance evaluation (accuracy, precision, recall, etc.)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - NumPy
@@ -16,10 +16,8 @@ This repository contains a machine learning mini-project implemented in Python u
 - Matplotlib
 - (Planned) Flask for Web Deployment
 
-The next phase of this project will involve developing a Flask-based web application that connects the trained ML model to a simple frontend interface.
-
+# The next phase of this project will involve developing a Flask-based web application that connects the trained ML model to a simple frontend interface.
 ## Planned Features
-
 A user-friendly form on the frontend to input:
 
 - Area (in square feet)
